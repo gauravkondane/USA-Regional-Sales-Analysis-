@@ -28,7 +28,26 @@ A multi-page Power BI dashboard analyzing $1.00B in U.S. sales across executive 
 - Supported channel strategy by quantifying margin per sale across routes.
 - Informed regional planning with revenue and profit breakdowns by state and region.
 - Delivered executive-ready insights with clean layout, dark theme, and modular navigation.
+## 📸 Dashboard Snapshot
+![Executive Overview Trends](https://github.com/gauravkondane/USA-Regional-Sales-Analysis-/blob/main/Executive%20Overvies%20%26%20Trends.png)
 
+![Product Channel Performance](https://github.com/gauravkondane/USA-Regional-Sales-Analysis-/blob/main/Product%20%26%20Channel%20Performance.png)
+
+
+![Geographic & Customer Insight](https://github.com/gauravkondane/USA-Regional-Sales-Analysis-/blob/main/Geographic%20%26%20Customer%20Insight.png)
+
+---
+
+## 👤 Author
+**Gaurav Kondane**  
+📅 *November 2025*  
+🔗 [LinkedIn](https://www.linkedin.com/) *(Add your LinkedIn URL here)*  
+
+---
+
+## 📄 Project Report
+You can also view the complete project documentation here:  
+[📘 Download Report (PDF)](https://github.com/gauravkondane/USA-Regional-Sales-Analysis-/blob/main/%F0%9F%93%8A%20USA%20Regional%20Sales%20Analysis%20Report.pdf)
 
 
 
