@@ -44,7 +44,7 @@ A multi-page Power BI dashboard analyzing $1.00B in U.S. sales across executive 
 ## 👤 Author
 **Gaurav Kondane**  
 📅 *November 2025*  
-🔗 [LinkedIn](https://www.linkedin.com/) *(Add your LinkedIn URL here)*  
+🔗 [LinkedIn](http://www.linkedin.com/in/gaurav-kondane-894469374) *(Add your LinkedIn URL here)*  
 
 ---
 
